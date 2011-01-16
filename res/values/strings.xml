@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, sqltest!</string>
+    <string name="app_name">sqltest</string>
+    <string name="dlg_ttl_uranai_blood">Blood Type</string>
+    <string name="dlg_ttl_uranai_result">Result</string>
+    <string name="dlg_msg_uranai_result">Date : %02d-%02d-%02d\nBlood Type : %s\n\nResult : %s</string>
+</resources>
